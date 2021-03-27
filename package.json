@@ -6,13 +6,12 @@
     "build": "vite build"
   },
   "dependencies": {
-    "vue": "^3.0.5"
+    "vue": "^3.0.8"
   },
   "devDependencies": {
     "@rollup/plugin-auto-install": "2.1.0",
-    "@vitejs/plugin-vue": "^1.0.4",
-    "@vue/compiler-sfc": "^3.0.5",
-    "rollup": "2.36.1",
-    "vite": "^2.0.0-beta.23"
+    "@vitejs/plugin-vue": "^1.2.0",
+    "@vue/compiler-sfc": "^3.0.8",
+    "vite": "2.1.3"
   }
 }
